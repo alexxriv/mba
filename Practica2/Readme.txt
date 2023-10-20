@@ -10,7 +10,7 @@ Se recomienda abrir los htmls en el navegador de su preferencia,
 se proyectará en su pantalla el código que
 puede ejecutar usando NetLogo.
 
-## Ejecutar el proyecto: Parte 2
+## Ejecutar el proyecto:
 
 Sustuir el codigo de los modelos incluídos
 en la biblioteca de NetLogo:
